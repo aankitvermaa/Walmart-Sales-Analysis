@@ -15,8 +15,7 @@ The goal of this project is to analyze Walmart’s sales performance across stor
 ## 🧰 Technologies Used
 - **Python** → Data cleaning, aggregation, visualization  
 - **SQL** → Querying, joins, aggregations  
-- **Power BI** → Interactive dashboards and reporting  
-- **Excel** → Quick summaries and validation
+- **Power BI** → Interactive dashboards and reporting 
 
 ---
 

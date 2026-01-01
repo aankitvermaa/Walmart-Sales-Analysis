@@ -3,5 +3,3 @@ numpy
 matplotlib
 seaborn
 jupyter
-sqlalchemy
-openpyxl

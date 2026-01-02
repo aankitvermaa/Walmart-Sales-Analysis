@@ -34,8 +34,7 @@ walmart-sales-analysis/
 
 ## 🧪 Key Insights
 - **Store Type A** generated the highest overall sales across all periods.  
-- **Holiday weeks** showed a **20–25% increase in sales** compared to non-holiday weeks.  
-- **Electronics** and **Grocery** departments consistently performed best.  
+- **Holiday weeks** showed a **20–25% increase in sales** compared to non-holiday weeks.    
 - Seasonal peaks observed in **November–December**, aligning with major holidays.
 
 ---
